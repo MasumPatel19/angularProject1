@@ -1,0 +1,25 @@
+.row{
+    display: flex;
+    gap: 10px;
+}
+.row  mat-form-field{
+    width: 100%;
+}
+.row mat-radio-group{
+    width: 100%;
+    margin-left: 20%;
+    margin-bottom: 4%;
+}
+.content{
+    padding-top: 10px;
+}
+
+.btn
+{
+   padding-bottom: 20px;
+}
+.btn button{
+    background-color: rgb(55, 55, 55);
+    color: white;
+    /* flex: 1; */
+}

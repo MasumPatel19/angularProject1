@@ -1,0 +1,20 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+  
+.tablebody{
+  padding: 20px;
+  max-width: 95%;
+  /* margin-left: 1%; */
+  margin:auto;
+  
+}
+.tablebody mat-form-field{
+  width: 100%;
+}
+.deletebtn{
+  color: red;
+}
+.editbtn{
+  color: blue;
+}

@@ -1,0 +1,24 @@
+ nav {
+    background-color: rgb(173, 167, 167);
+    padding: 15px;
+}
+
+/* nav ul {
+    float: right;
+    list-style-type: none;
+    padding: 15px;
+} */
+
+nav ul li {
+    display: inline-block;
+    padding: 10px;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: black;
+} 

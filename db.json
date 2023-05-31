@@ -1,0 +1,41 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "students": [
+    {
+      "firstName": "Masum",
+      "lastName": "Patel",
+      "email": "masum@gmail.com",
+      "dob": "2000-11-18T18:30:00.000Z",
+      "gender": "female",
+      "address": "ahmedabad",
+      "year": "3rd Year",
+      "id": 1
+    },
+    {
+      "firstName": "disha",
+      "lastName": "barot",
+      "email": "disha@yahoo.com",
+      "dob": "2023-02-10T18:30:00.000Z",
+      "gender": "female",
+      "address": "ahmedabad",
+      "year": "2nd Year",
+      "id": 2
+    }
+  ]
+}
